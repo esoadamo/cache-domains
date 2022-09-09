@@ -1,0 +1,9 @@
+*.archive.ubuntu.com
+security.ubuntu.com
+archive.ubuntu.com
+deb.debian.org
+security.debian.org
+snapstore-content-cache-[0-9]*.ps[0-9]*.canonical.com
+ppa.launchpad.net
+dl.google.com
+
